@@ -1,0 +1,17 @@
+Steps:-
+
+1. Read the "How to generate a new API key" for the script, if the present one has expired.
+2. After downloading and extracting the folder, open this folder in a text editor(for instance; VS code).
+3. After loading the folder in text editor, open a new terminal make sure "node" is installed in the pc.
+4. Run commands a. npm install node-fetch
+		b. npm install xlsx
+5. Know, to run the script use code:- node index.js, in terminal 
+
+~~~~~~~~Making changes to query~~~~~~~~~
+1. Change the value of query variable with the desired statement to search for on google.
+2. Change the value of city, to change the location for search results.
+3. When putting in a new api key, put it in the value of "api_key".
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+After executing the script an excel file will be generated containing the output of the script. Make sure to open the Excel file and remove duplicate entries.

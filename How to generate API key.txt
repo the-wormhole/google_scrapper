@@ -1,0 +1,7 @@
+1. Go to "https://serpstack.com/" 
+2. Click on Sign-up for FREE hyperlink.
+3. Select the $0 per month offer 
+4. Fill in the form and Sign Up.
+5. You will redirected to a page with API key displaying, copy that key paste it in the script as mentioned in "How to use the script" document.
+
+One API key is valid for 100 requests per month, make the usage based on this figure.

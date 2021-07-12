@@ -1,0 +1,17 @@
+{
+  "name": "google-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nayan",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^9.1.1",
+    "xlsx": "^0.17.0"
+  }
+}
