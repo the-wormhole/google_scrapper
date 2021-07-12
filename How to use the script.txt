@@ -1,11 +1,13 @@
 Steps:-
 
 1. Read the "How to generate a new API key" for the script, if the present one has expired.
-2. After downloading and extracting the folder, open this folder in a text editor(for instance; VS code).
-3. After loading the folder in text editor, open a new terminal make sure "node" is installed in the pc.
-4. Run commands a. npm install node-fetch
-		b. npm install xlsx
-5. Know, to run the script use code:- node index.js, in terminal 
+2. Download a text editor(like: VS code)
+3. Now clone the git repository from the link. For confusion in cloning, look up on the this link (https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)
+4. Now load the folder(i.e the folder named Google Scrapper) in text editor, open a new terminal make sure "node" is installed in the pc.
+5. Run commands :-
+				a. npm install node-fetch
+				b. npm install xlsx
+5. Know, to run the script use code:- node index.js (or npm start), in the terminal.
 
 ~~~~~~~~Making changes to query~~~~~~~~~
 1. Change the value of query variable with the desired statement to search for on google.
